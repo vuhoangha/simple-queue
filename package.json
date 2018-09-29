@@ -1,0 +1,18 @@
+{
+    "name": "vietnam-queue",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start",
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vuhoangha/simple-queue"
+    },
+    "keywords": [],
+    "author": "vuhoangha",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vuhoangha/simple-queue/issues"
+    }
+}
