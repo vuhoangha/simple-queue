@@ -2,7 +2,7 @@
 
 # example
 
-    import VietNamQueue from 'vietnam-queue';
+    const VietNamQueue = require('vietnam-queue');
 
     const queue = new VietNamQueue();
 
