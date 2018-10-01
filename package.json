@@ -1,6 +1,6 @@
 {
     "name": "vietnam-queue",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "test.js",
     "scripts": {
         "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -15,8 +15,5 @@
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/vuhoangha/simple-queue/issues"
-    },
-    "dependencies": {
-        "axios": "^0.18.0"
     }
 }
